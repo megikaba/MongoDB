@@ -1,0 +1,4 @@
+{"_id":{"$oid":"666383ac123d0c1c403452bd"},"name":"Golden Retriever","type":"Dog","age":1,"__v":0}
+{"_id":{"$oid":"6664d53933055f807d692372"},"name":"Panther","type":"Cat","age":3,"__v":0}
+{"_id":{"$oid":"6664d57933055f807d692375"},"name":"Mocking Bird","type":"Bird","age":8,"__v":0}
+{"_id":{"$oid":"66671632813955d861e7d5d0"},"name":"BRITISH Short hair","type":"Cat","age":13,"__v":0}
